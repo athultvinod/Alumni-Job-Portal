@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const { StringDecoder } = require('string_decoder');
-mongoose.connect('mongodb://localhost:27017/AlumniDb', {useNewUrlParser: true}, { useUnifiedTopology: true });
+mongoose.connect('mongodb+srv://userone:userone@myproject.fb69ouv.mongodb.net/?retryWrites=true&w=majority', {useNewUrlParser: true}, { useUnifiedTopology: true });
 
 const Schema = mongoose.Schema;//To Access the schema from Mongoose package
 
