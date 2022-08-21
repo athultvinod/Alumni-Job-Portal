@@ -1,0 +1,22 @@
+.imglogo{
+  width: 250px;
+}
+
+.logo{
+    padding: 0%;
+   
+}
+
+   
+@media (max-width: 768px) {
+    .nav{
+        display: absolute;
+    }
+    .navbar .dropdown .dropdown ul {
+      left: -90%;
+    }
+    .navbar .dropdown .dropdown:hover > ul {
+      left: -100%;
+    }
+    
+  }
