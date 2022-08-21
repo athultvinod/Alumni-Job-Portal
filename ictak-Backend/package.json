@@ -1,7 +1,7 @@
 {
-  "name": "product-app-backend",
+  "name": "job-portal-app",
   "version": "1.0.0",
-  "description": "Backend for Product app",
+  "description": "Backend for Job Portal App",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -17,6 +17,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Neenu Merly Korula",
+  "author": "AAAR",
   "license": "ISC"
 }
